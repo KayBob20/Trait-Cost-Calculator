@@ -13,14 +13,15 @@ This document describes the current progress and the future objectives of the Tr
 This sprint will last one week.
 ##
 
-📉 &nbsp;&nbsp;**3 / 4** goals completed **(75%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Wed Jul 16 2025**
+📉 &nbsp;&nbsp;**5 / 5** goals completed **(75%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Wed Jul 16 2025**
 
 | Status | Goal | Labels |
 | :---: | :--- | --- |
+| Ⅹ | Develop idea for the project | |
+| Ⅹ | Find an existing repository with similar principle to use in this project | |
 | Ⅹ | Create some example traits to start testing with | |
 | Ⅹ | Create a few items that will work with example traits | |
 | Ⅹ | Make the logic checking for the first examples | |
-| | Troubleshoot issues with logic checking | `in progress` |
 
 &nbsp;
 ## Sprint 2
