@@ -9,10 +9,15 @@ Before you can make your Hoofhisser official, you must buy the correct items to 
 ## Road Map
 
 [x] Create some example traits to start testing with
+
 [x] Create a few items that will work with example traits
+
 [x] Make the logic checking for the first examples
+
 [ ] Troubleshoot issues with logic checking
+
 [ ] Add more traits and items
+
 [ ] Create HTML code to visually present the calculator using Flask
 
 ## Current Issues
