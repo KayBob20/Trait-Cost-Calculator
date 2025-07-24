@@ -2,7 +2,7 @@
 
 This document describes the current progress and the future objectives of the Trait Cost Calculator project.
 
-*Updated: Mon, 21 Jul 2025 21:31 EST*
+*Updated: Thu, 24 Jul 2025 17:19 EST*
 
 ## Sprint 1
 
@@ -40,3 +40,18 @@ This sprint will last one week.
 | Ⅹ | Troubleshoot issues with logic checking | |
 | | Add more traits and items | `in progress` |
 | | Create HTML code to visually present the calculator using Flask | |
+
+## Sprint 3
+
+> This sprint will be done when 
+* All issues with the output are corrected
+* A webpage version of the calculator is available online using Flask
+
+##
+
+📉 &nbsp;&nbsp;**2 / 2** goals completed **(100%)** &nbsp;&nbsp;📅 &nbsp;&nbsp;**Thu Jul 24 2025**
+
+| Status | Goal | Labels |
+| :---: | :--- | --- |
+| Ⅹ | Add more traits and items | |
+| Ⅹ | Create HTML code to visually present the calculator using Flask | |

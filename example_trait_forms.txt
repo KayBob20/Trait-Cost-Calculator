@@ -1,0 +1,37 @@
+Past these forms into the program and watch it work!
+
+Horn trait: Normal
+What's on the horn trait: Normal
+Mouth trait: normal
+Heat pit traits: Normal
+Eye trait: Goat
+Ear trait: rabbit
+Feet trait: Paws + Hooves
+Tail trait: Goat
+
+Horn trait - Normal
+What's on the horn trait -  spikey
+Mouth trait - normal
+Heat pit traits - Normal
+Eye trait - Goat
+Ear trait - mouse
+Feet trait - Paws
+Tail trait - Goat
+
+Horn trait Normal
+What's on the horn trait  cObrA
+Mouth trait normal
+Heat pit traits split CIRCLE
+Eye trait Goat
+Ear trait mouse
+Feet trait STUBS
+Tail trait Goat
+
+Horn trait: Normal
+What’s on the horn trait: Normal
+Mouth trait: Normal
+Heat pit traits: Circle
+Eye trait: Goat
+Ear trait: Deer
+Feet trait: Boot
+Tail trait: Goat on top

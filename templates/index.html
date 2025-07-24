@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hoofhisser Trait Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            padding: 1rem;
+            gap: 1rem;
+        }
+        .input-output-box-container {
+            display: flex;
+            width: 100%;
+            align-items: flex-start;
+            gap: 20px;
+        }
+        textarea, pre {
+            width: 100%;
+            max-width: 600px;
+            height: 500px;
+            padding: 1rem;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            resize: vertical;
+            box-sizing: border-box;
+        }
+        pre {
+            background: #f8f8f8;
+            white-space: pre-wrap;
+            overflow-y: auto;
+            margin: 0;
+        }
+        button {
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            font-size: 1rem;
+            cursor: pointer;
+            width: fit-content;
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            max-width: 600px;
+            height: fit-content;
+        }
+    </style>
+</head>
+<body>
+    <div class="input-output-box-container">
+        <form method="post">
+            <textarea
+                name="trait_input"
+                placeholder="Paste your traits here..."
+                autofocus
+            >{{ input_text }}</textarea>
+            <button type="submit">Calculate</button>
+        </form>
+        <pre>{{ output }}</pre>
+    </div>
+</body>
+</html>
